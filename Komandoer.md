@@ -3,6 +3,7 @@
 ## Steg 3: Oppdatere og oppgradere Raspberry Pi
 
 1. Kjør følgende kommandoer for å oppdatere systemet:
+   
    ```bash
    sudo apt update
    sudo apt upgrade -y
@@ -10,9 +11,12 @@
 
 ## Steg 4: Installere nødvendig programvare
 1. Installer Python3 og pip:
+   
     ```bash
     sudo apt install python3 python3-pip -y
-2. Installer git for å kunne klone GitHub-repoet:
+    
+3. Installer git for å kunne klone GitHub-repoet:
+   
     ```bash
     sudo apt install git -y
 
