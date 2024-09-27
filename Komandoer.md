@@ -4,7 +4,7 @@
 
 1. Kjør følgende kommandoer for å oppdatere systemet:
    
-   ```bash
+   ```bash 
    sudo apt update
    sudo apt upgrade -y
 
