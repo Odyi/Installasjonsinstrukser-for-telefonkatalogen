@@ -88,11 +88,10 @@ Steg 7: Konfigurere brannmur
    FLUSH PRIVILEGES;
    ```
 
-11. Initialiser databasen med tabeller. Kjør SQL-skriptet som definerer strukturen (lagre SQL-skriptet som `schema.sql` i prosjektmappen):
+11. Initialiser databasen med tabeller. Kjør SQL-skriptet som definerer strukturen: 
     
    ```sql
    USE telefonkatalog;
-   SOURCE /path/to/schema.sql;
    ```
 
 11. Verifiser at databasen er riktig satt opp ved å kjøre:
