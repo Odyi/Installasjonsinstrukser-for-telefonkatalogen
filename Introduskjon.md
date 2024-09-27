@@ -9,8 +9,8 @@ Denne veiledningen gir en trinn-for-trinn instruksjon for å sette opp prosjekte
 **Før du starter, sørg for at du har følgende:**
 - En Raspberry Pi (modell 3 eller nyere)
 - MicroSD-kort (minst 16 GB)
-- Raspberry Pi-strømforsyning
-- Ethernet-kabel eller Wi-Fi (avhengig av tilkobling)
+- Raspberry Pi-strøm kabel
+- Ethernet-kabel eller Wi-Fi 
 - En annen datamaskin for SSH-tilkobling
 - Ubuntu som operativ system
 
@@ -22,7 +22,7 @@ Denne veiledningen gir en trinn-for-trinn instruksjon for å sette opp prosjekte
 2. Sett inn MicroSD-kortet i datamaskinen og åpne Raspberry Pi Imager.
 3. Velg `Ubuntu` som operativsystem.
 4. Velg MicroSD-kortet som mål.
-5. Gå til de avanserte innstillingene (tannhjul-ikonet) og:
+5. Gå til de avanserte innstillingene (gear-ikonet) og:
    - Aktiver SSH.
    - Sett opp Wi-Fi (om nødvendig).
    - Angi lokal bruker og passord for Pi (standard bruker er `pi` og passord `raspberry`).
