@@ -37,3 +37,4 @@ Denne veiledningen gir en trinn-for-trinn instruksjon for å sette opp prosjekte
 2. Koble til Raspberry Pi ved å bruke kommandoen:
    ```bash
    ssh pi@raspberrypi.local
+3. Se på komandoer.txt for neste steg
